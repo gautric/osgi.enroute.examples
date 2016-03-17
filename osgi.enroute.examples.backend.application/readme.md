@@ -28,13 +28,13 @@ The GUI Javascript code can be found in `web` and the resources that are needed 
 
 ### GUI
 
-The application also has a GUI. This GUI allows to create blobs and delete them while showing which blobs are available. To run the app, checkout the project on [githb][2] (osgi.enroute.examples.backend.application). Then select debug.bndrun in bndtools, resolve, and then click on the Debug icon. After the app is started you can go to:
+The application also has a GUI. This GUI allows to create blobs and delete them while showing which blobs are available. To run the app, checkout the project on [github][2] (osgi.enroute.examples.backend.application). Then select debug.bndrun in bndtools, resolve, and then click on the Debug icon. After the app is started you can go to:
 
-http://localhost:8080/osgi.enroute.examples.backend
+	http://localhost:8080/osgi.enroute.examples.backend
 
 The GUI should be self explanatory. Don't forget to look at XRay. You can find XRay at:
 
-http://localhost:8080/system/console/xray
+	http://localhost:8080/system/console/xray
 
 ## The Original Email Conversation
 
